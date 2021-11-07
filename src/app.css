@@ -1,0 +1,9 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* This is for CSS debugging purposes */
+/* * { 
+    border: 1px #ff000022 solid !important;
+} */
